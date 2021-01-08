@@ -4,8 +4,6 @@ require_once __DIR__ . '/database/db.php'
 
 
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 
